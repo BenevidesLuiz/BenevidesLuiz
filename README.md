@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luiz Benevides
+- 👋 Hi, I’m Luiz Benevides
 - 👀 I’m interested in tecnologic
 - 🌱 I’m currently learning Paython
 - 💞️ I’m looking to collaborate on  for all
