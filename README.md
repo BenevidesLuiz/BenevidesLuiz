@@ -2,7 +2,7 @@
 - 👀 I’m interested in tecnologic
 - 🌱 I’m currently learning Paython
 - 💞️ I’m looking to collaborate on  for all
-- 📫 How to reach me @luizquevedobenevides@gmail.com
+- 📫 How to reach me @luixbenevides@gmail.com
 
 <!---
 BenevidesLuiz/BenevidesLuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
