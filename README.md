@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz Benevides
 - 👀 I’m interested in tecnologic
--     Information systems student
+-   Information systems student
 - 🌱 I’m currently learning Paython
 - 💞️ I’m looking to collaborate on  for all
 - 📫 How to reach me @luixbenevides@gmail.com
