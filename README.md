@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Luiz Benevides
-- 👀 I’m interested in tecnologic
--   Information systems student
-- 🌱 I’m currently learning Paython
-- 💞️ I’m looking to collaborate on  for all
-- 📫 How to reach me @luixbenevides@gmail.com
+👋 Hi there, I’m Luiz Benevides!
+👀 I’m passionate about all things technology.
+🎓 Currently pursuing a degree in Information Systems.
+🌱 Actively honing my skills in Python.
+💼 Open to collaborating on exciting projects.
+📫 You can reach me at luixbenevides@gmail.com.
 
 <!---
 BenevidesLuiz/BenevidesLuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
