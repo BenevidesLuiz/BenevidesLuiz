@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Luiz Benevides!
 - 👀 I’m passionate about all things technology.
 - 🎓 Currently pursuing a degree in Information Systems.
-- 🌱 Actively honing my skills in Python and Java.
+- 🌱 Actively honing my skills in Java.
 - 💼 Open to collaborating on exciting projects.
 - 📫 You can reach me at luixbenevides@gmail.com.
 
