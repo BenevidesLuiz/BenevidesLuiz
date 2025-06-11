@@ -14,7 +14,7 @@ I'm a developer passionate about backend systems and object-oriented programming
 
 - ✅ **FinaFlow**: Experimental personal finance app built with Flutter  
 - ✅ **Contact Management System**: Java-based CRUD desktop application  
-- ✅ **DETRAN System**: Web system simulating a vehicle management platform in PHP  
+- ✅ **Game Retro**: Super Arkanoid
 - ✅ **Laravel + PHP System**: Full-featured web application with authentication and data operations
 
 ---
