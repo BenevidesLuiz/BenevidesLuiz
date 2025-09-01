@@ -6,7 +6,7 @@
 
 ### 📌 About Me
 
-I'm a developer passionate about backend systems and object-oriented programming. I have hands-on experience building complete applications using **Java**, **PHP**, and **JavaScript**. I’m also a game development enthusiast, currently exploring both **2D game creation with GameMaker** and **3D development with Unity**.
+I'm a developer passionate about backend systems and object-oriented programming. I have hands-on experience building complete applications using **Java**, **#C**. I’m also a game development enthusiast, currently exploring both **2D game creation with GameMaker** and **3D development with Unity**.
 
 ---
 
