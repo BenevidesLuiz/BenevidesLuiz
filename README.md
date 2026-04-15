@@ -14,7 +14,7 @@ I focus on gameplay systems, player mechanics, and creating engaging game experi
 
 ### 🎮 Game Projects
 
-* 🕹️ **2D Soulslike Game (Unity | C#)**
+* 🕹️ **Gravenfal(Unity | C#)**
   Developed core gameplay systems including player movement, combat mechanics, and interactions.
 
 * 🕹️ **Shadow Keep (In Progress)**
