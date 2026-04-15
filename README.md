@@ -1,58 +1,68 @@
 # 👋 Hi, I'm Luiz Benevides
 
-💻 **Full Stack Developer | Information Systems Student | 2D/3D Game Development Enthusiast**
+🎮 **Game Developer (Unity / C#) | Gameplay Programming | Open to Remote Opportunities**
 
 ---
 
 ### 📌 About Me
 
-I'm a developer passionate about backend systems and object-oriented programming. I have hands-on experience building complete applications using **Java**, **#C**. I’m also a game development enthusiast, currently exploring both **2D game creation with Unity** and **3D development**.
+I'm a Software Development student passionate about game development, with hands-on experience building games using Unity and C#.
+
+I focus on gameplay systems, player mechanics, and creating engaging game experiences.
 
 ---
 
-### 🧪 Project Experience
+### 🎮 Game Projects
 
-- ✅ **FinaFlow**: Experimental personal finance app built with Flutter  
-- ✅ **Contact Management System**: Java-based CRUD desktop application  
-- ✅ **Game Retro**: Super Arkanoid
-- ✅ **Laravel + PHP System**: Full-featured web application with authentication and data operations
+* 🕹️ **2D Soulslike Game (Unity | C#)**
+  Developed core gameplay systems including player movement, combat mechanics, and interactions.
+
+* 🕹️ **Shadow Keep (In Progress)**
+A 2D Soulslike game developed in Unity, featuring class-based gameplay (Warrior and Paladin), combat mechanics, and progressive system design improvements based on my previous project. Focused on player combat, class differentiation, and gameplay feel.
+
+* 🕹️ **Super Arkanoid (GameMaker)**
+  My first game project, where I learned fundamental game development concepts.
+
+---
+
+### 💻 Other Projects
+
+* ✅ **Contact Management System (Java)** – Desktop CRUD application
+* ✅ **Psychology Clinic System (Java - UFMS)** – Real-world academic project
+* ✅ **FinaFlow (Flutter)** – Mobile app experiment
+* ✅ **Laravel + PHP System** – Web system (learning project)
 
 ---
 
 ### 🎓 Academic Background
 
-- 🎓 **Bachelor’s in Information Systems** (In Progress)  
-- 🖥️ **IT Technician — [IFMS](https://www.ifms.edu.br/)** (2021–2023)
+* 🎓 **Bachelor’s in Information Systems** (UFMS - In Progress)
+* 🖥️ **IT Technician — IFMS** (2021–2023)
 
 ---
 
 ### 💼 Tech Stack
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**Game Development**
+Unity · C#
 
+**Programming**
+Java · C# · JavaScript
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Others**  
-🕹️ _Unity (exploring 3D game development using C#)_
+**Database**
+MySQL
 
 ---
 
-### 🚀 Currently Exploring
+### 🚀 Currently Focused On
 
-- Backend development with **Java + Spring**
-- Full-stack development with **Laravel and PHP**
-- 3D Game development with **Unity**
-- 2D Game creation with **Unity**
-- Writing clean code using good architecture patterns
+* Gameplay programming (Unity)
+* Game systems design
+* Improving game architecture
 
 ---
 
-### 📬 Get in Touch
+### 📬 Contact
 
 <p align="left">
   <a href="mailto:luixbenevides@gmail.com">
@@ -61,7 +71,7 @@ I'm a developer passionate about backend systems and object-oriented programming
   <a href="https://www.linkedin.com/in/luiz-felipe-quevedo-benevides-a26a342bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
 </p>
+
 
 ---
