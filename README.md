@@ -2,17 +2,7 @@
 
 **Software Developer | Java & Back-End Development | Information Systems (UFMS)**
 
-<p align="left">
-  <a href="https://benevidesluiz.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-benevidesluiz.github.io-1e3a5f?style=for-the-badge" alt="Portfolio Website" />
-  </a>
-  <a href="https://benevidesluiz.github.io/assets/docs/Luiz_Benevides_CV_PT.pdf">
-    <img src="https://img.shields.io/badge/📄_Currículo_(PT--BR)-PDF-252b36?style=for-the-badge" alt="Currículo PT-BR" />
-  </a>
-  <a href="https://benevidesluiz.github.io/assets/docs/Luiz_Benevides_CV_EN.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume_(EN)-PDF-252b36?style=for-the-badge" alt="Resume EN" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/Website-benevidesluiz.github.io-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benevidesluiz.github.io/)
 
 ---
 
@@ -21,8 +11,6 @@
 I'm an Information Systems student at the Federal University of Mato Grosso do Sul (UFMS) and an IT Technician from the Federal Institute of Mato Grosso do Sul (IFMS), focused on **back-end development**, **Java**, and **software engineering**.
 
 I have 1 year of hands-on experience developing and maintaining a Java desktop management system (Swing and JDBC) integrated with a relational database for the UFMS Psychology Clinic, working on SQL queries, CRUD operations, role-based access control, LGPD data masking, and object-oriented component design.
-
-👉 **Explore my full portfolio, projects, and interactive resume (PT/EN) at [benevidesluiz.github.io](https://benevidesluiz.github.io/).**
 
 ---
 
@@ -56,7 +44,7 @@ I have 1 year of hands-on experience developing and maintaining a Java desktop m
 
 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="20" /> 
+  <img src="https://skillicons.dev/icons?i=java" height="20" />
   <img src="https://img.shields.io/badge/Java-252b36?style=flat-square" />
   <img src="https://skillicons.dev/icons?i=js" height="20" />
   <img src="https://img.shields.io/badge/JavaScript-252b36?style=flat-square" />
@@ -72,12 +60,13 @@ I have 1 year of hands-on experience developing and maintaining a Java desktop m
   <img src="https://img.shields.io/badge/MySQL-252b36?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/MariaDB-252b36?style=flat-square&logo=mariadb&logoColor=003545" />
   <img src="https://img.shields.io/badge/SQLite-252b36?style=flat-square&logo=sqlite&logoColor=003B57" />
-  <img src="https://img.shields.io/badge/JDBC-252b36?style=flat-square" />
+  <img src="https://img.shields.io/badge/JDBC-252b36?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
 **Frameworks, Libraries & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Java_Swing_&_JavaFX-252b36?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java_Swing-252b36?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-252b36?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-252b36?style=flat-square&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express-252b36?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-252b36?style=flat-square&logo=jest&logoColor=C21325" />
@@ -99,14 +88,6 @@ I have 1 year of hands-on experience developing and maintaining a Java desktop m
 
 ### 📬 Contact & Links
 
-<p align="left">
-  <a href="https://benevidesluiz.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-benevidesluiz.github.io-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="mailto:luixbenevides@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-felipe-quevedo-benevides-a26a342bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-benevidesluiz.github.io-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benevidesluiz.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luixbenevides@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-quevedo-benevides-a26a342bb/)
