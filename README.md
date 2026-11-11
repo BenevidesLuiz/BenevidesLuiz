@@ -2,7 +2,9 @@
 
 **Software Developer | Java & Back-End Development | Information Systems (UFMS)**
 
-[![Website](https://img.shields.io/badge/Website-benevidesluiz.github.io-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benevidesluiz.github.io/)
+<p align="left">
+  <a href="https://benevidesluiz.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-benevidesluiz.github.io-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
@@ -86,8 +88,9 @@ I have 1 year of hands-on experience developing and maintaining a Java desktop m
 
 ---
 
-### 📬 Contact & Links
+### 📬 Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-benevidesluiz.github.io-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benevidesluiz.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luixbenevides@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-quevedo-benevides-a26a342bb/)
+<p align="left">
+  <a href="mailto:luixbenevides@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-quevedo-benevides-a26a342bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
